@@ -1,0 +1,39 @@
+*{
+    justify-content: center;
+    text-align: center;
+    font-family: Garamond, serif;
+    font: 20px bold;
+
+}
+ 
+.containter {
+    padding: 15%;
+    margin: 15%;
+    background-color: #C2FCF4;
+}
+
+button {
+    display: inline-flex;
+    background-color: #FFD9E9;
+    color: #05691c;
+    border-radius: 5%;
+    border-style: dashed;
+    border-color: #096f6179;
+}
+
+.decrese, .increse{
+    border-radius: 35%;
+}
+
+.counter {
+    font-size: 45px;
+    background-color: #d7fffa;
+    padding: 5%;
+    margin: 5%;
+    border-style: dashed;
+    border-color: #05690c65;
+}
+
+h1 {
+    color: #e3699c;
+}
